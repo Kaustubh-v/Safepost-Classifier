@@ -1,3 +1,6 @@
 data/
 logs/
 .ipynb_checkpoints/
+.env
+.vscode
+urls.txt
